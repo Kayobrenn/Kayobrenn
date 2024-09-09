@@ -15,8 +15,8 @@ habilidades para me manter atualizado com as inovações.
 
 - **Banco de Dados:** MySQL Query Browser
 - **Suporte Técnico:** Experiência em suporte de sistemas, manutenção de computadores e redes
-- **IDEs:** VSCode e PyCharm
 - **Soft Skills:** Trabalho em equipe, resolução de problemas e comunicação
+- **IDEs:** VSCode e PyCharm
   
 ## 🌱 Atualmente Aprendendo
 
