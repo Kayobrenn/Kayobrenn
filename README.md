@@ -22,12 +22,12 @@ habilidades para me manter atualizado com as inovações.
 
 - **Linguagem de Programação:** Python
 - **Desenvolvimento Web:** HTML, Front-End
-
-## 📫 Contato
-
-- **Email:** [kayobrenno4@gmail.com](mailto:KayoBrenno4@gmail.com)
-- **LinkedIn:** [www.linkedin.com/in/kayo-brenno-4a75411a4](www.linkedin.com/in/kayo-brenno-4a75411a4)
-- **GitHub:** [github.com/KayoBrenn](https://github.com/KayoBrenn)
-
-  <img align="center" alt="Iza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Iza-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
+  <br/>
+  <br/>
+  <div> 
+  <a href="www.linkedin.com/in/kayo-brenno-4a75411a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/channels" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  </div>
+  <br/>
+    <img align="center" alt="Kayo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="Kayo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
