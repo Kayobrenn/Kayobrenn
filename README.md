@@ -28,3 +28,6 @@ habilidades para me manter atualizado com as inovações.
 - **Email:** [kayobrenno4@gmail.com](mailto:KayoBrenno4@gmail.com)
 - **LinkedIn:** [www.linkedin.com/in/kayo-brenno-4a75411a4](www.linkedin.com/in/kayo-brenno-4a75411a4)
 - **GitHub:** [github.com/KayoBrenn](https://github.com/KayoBrenn)
+
+  <img align="center" alt="Iza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Iza-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
