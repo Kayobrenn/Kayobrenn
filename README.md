@@ -16,8 +16,8 @@ I have a passion for learning new technologies and am always looking to improve 
   
 ## 🌱 Currently Learning
 
-- **Programming Language:** Python
-- **Web Development:** HTML and CSS
+- **Programming Language:** Python and CSS
+- **Web Development:** HTML
   
   <br/>
   <br/>
