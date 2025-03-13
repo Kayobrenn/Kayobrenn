@@ -12,7 +12,7 @@ I have a passion for learning new technologies and am always looking to improve 
 - **Databases:** MySQL and MariaDB
 - **Technical Support:** Experience in system support, computer maintenance, and networking
 - **Soft Skills:** Teamwork, problem-solving, and communication
-- **IDEs:** VSCode and PyCharm
+- **IDEs:** VSCode, PyCharm and InteliJ
   
 ## 🌱 Currently Learning
 
