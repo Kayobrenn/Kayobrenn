@@ -1,31 +1,51 @@
-<h1 align="center">Hi, I'm Kayo Brenno!</h1>
+<h1>
+  <a align="left" href="https://portfolio.desenvolvedor-kennedy.com.br/">
+    <img alt="KAYOBRENN-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"/>
+    <img alt="KAYOBRENN-SpringBoot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
+  </a>
+    <span style="font-size: 45px;">Kayo Brenno</span>
+</h1>
 
-## 🎓 About Me
+<img align="right" alt="Developer vector created by www.freepik.com" height="380" src="https://raw.githubusercontent.com/090Raphael/imagens/86227742a4942ef2d095bfb6e68ad9767f208ef9/imagens/ilustra%C3%A7%C3%A3o%20de%20computador%202.png" alt="ilustração de um computador">
+<p align="justify">
+Olá, eu sou o Kayo!
+Sou estudante de Ciência da Computação, atualmente no 3º semestre, e venho construindo uma base sólida em desenvolvimento de software e tecnologias modernas.
 
-I currently work as a maintenance and support technician in Information Technology at G2 Soft, where I solve technical problems and maintain PDV systems. Additionally, I am a student of Computer Science at Uniesp University Center, with a strong interest in software development, databases, and artificial intelligence.
+Tenho experiência prática com linguagens como Java, JavaScript e Python, além de trabalhar com frameworks e bibliotecas como Spring Boot, React e Tailwind CSS. Me interesso tanto por desenvolvimento back-end quanto front-end, sempre buscando criar aplicações funcionais, bem estruturadas e com boa experiência de uso.
 
-I have a passion for learning new technologies and am always looking to improve my skills to stay updated with innovations.
+Estou em constante evolução, estudando novas ferramentas e boas práticas de desenvolvimento. Gosto de desafios e acredito que a tecnologia é uma ponte para resolver problemas reais de forma criativa e eficiente.
+<br><br>
+ Se quiser trocar ideias, colaborar ou apenas bater um papo sobre tecnologia, minhas redes estão sempre abertas! </p>
 
+<h3 align="left">Conecte-se comigo</h3>
 
-## 🔧 Skills
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayobrenn/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/kayobrenn/)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:kbreno822@gmail.com)
 
-- **Databases:** MySQL and MariaDB
-- **Technical Support:** Experience in system support, computer maintenance, and networking
-- **Soft Skills:** Teamwork, problem-solving, and communication
-- **IDEs:** VSCode, PyCharm and IntelliJ
-  
-## 🌱 Currently Learning
+### Linguagens e Ferramentas
 
-- **Programming Language:** Java, Java Script, Python and CSS
-- **Web Development:** HTML
-  
-  <br/>
-  <br/>
-  <div> 
-  <a href="https://www.linkedin.com/in/KayoBrenno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
-  <br/>
-    <img align="center" alt="Kayo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-    <img align="center" alt="Kayo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Kayo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=red)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=ffdd54)
+![Tailwind](https://img.shields.io/badge/tailwindcss-000.svg?style=for-the-badge&logo=tailwind-css&logoColor=61dafb)
+![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Spring](https://img.shields.io/badge/spring-000.svg?style=for-the-badge&logo=spring&logoColor=%236db33f)
+
+### Banco de Dados
+
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=61dafd)
+![MariaDB](https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=mariadb&logoColor=696969)
+
+### Cloud Computing Service
+
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kayobrenn&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayobrenn&layout=compact&theme=merko)
+
+### Meus Principais Desafios de Projeto
+
+[![Repo DSCATALOG](https://github-readme-stats.vercel.app/api/pin/?username=kayobrenn&repo=luxury-yacht-rental-site-html-css&theme=merko)](https://github.com/Kayobrenn/luxury-yacht-rental-site-html-css)
