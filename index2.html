@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Séries de TV</title>
+  
+  <style>
+    body, html {
+        margin: 0;
+        padding: 0;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    ul { list-style: none; padding-left: 5px; }
+    a { color:blue; text-decoration: none;}
+    .bar {
+        background-color: #f9f9fb;
+        padding:15px;
+        border-top: solid 1px #cdcdcd;
+        border-bottom: solid 1px #cdcdcd;
+    }
+    main.content {
+        max-width: 1440px;
+        margin: auto;
+        grid-gap: 3rem;
+        display: grid;
+        gap: 3rem;
+        grid-template-areas: "sidebar main anchors";
+        grid-template-columns: minmax(0,15rem) minmax(0,2.5fr) minmax(0,15rem);
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+    footer {
+        min-height: 100px;
+        border-top: solid 1px #cdcdcd;
+        padding: 20px;
+        text-align: center;
+    }
+    aside.anchors {
+        border-left: solid 1px #cdcdcd;
+        padding-left: 15px;
+    }
+    aside.sidebar {
+        border-right: solid 1px #cdcdcd;
+    }
+    figure {
+        text-align: center;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <figure>
+      <img src="assets/images/logo.png" alt="Logo" width="200" />
+    </figure>
+  </header>
+
+  <div class="bar"></div>
+
+  <nav>
+    <ul>
+      <li><a href="#got">Game of Thrones</a></li>
+      <li><a href="#stranger">Stranger Things</a></li>
+      <li><a href="#breaking">Breaking Bad</a></li>
+    </ul>
+  </nav>
+
+  <main class="content">
+    <aside class="sidebar">
+      <h2>Série de TV</h2>
+      <ul>
+        <li><a href="#got">Game of Thrones</a></li>
+        <li><a href="#stranger">Stranger Things</a></li>
+        <li><a href="#breaking">Breaking Bad</a></li>
+      </ul>
+    </aside>
+
+    <article>
+      <section id="got">
+        <h1>Tudo sobre Game Of Thrones</h1>
+        <p>Game of Thrones é uma série de televisão norte-americana criada por David Benioff e D. B. Weiss, baseada na série de livros <em>As Crônicas de Gelo e Fogo</em> de George R. R. Martin. A série foi exibida pela HBO de 17 de abril de 2011 a 19 de maio de 2019, com oito temporadas. A trama gira em torno da disputa pelo Trono de Ferro entre famílias nobres em Westeros.</p>
+        <h2>Sinopse</h2>
+        <p>Situada nos continentes fictícios de Westeros e Essos, a série retrata guerras dinásticas e lutas por poder entre as casas nobres. Ao longo da série, surgem ameaças sobrenaturais e tramas políticas complexas.</p>
+        <h2>Produção</h2>
+        <p>A adaptação começou em 2007 após a leitura dos livros por Benioff e Weiss. A HBO aprovou o projeto e a série rapidamente ganhou popularidade mundial, sendo reconhecida por sua produção cinematográfica, roteiros e personagens complexos.</p>
+      </section>
+
+      <section id="stranger">
+        <h1>Tudo sobre Stranger Things</h1>
+        <p>Stranger Things é uma série de televisão americana criada pelos Irmãos Duffer. Estreou na Netflix em 15 de julho de 2016. Ambientada nos anos 80, em Hawkins, Indiana, a série combina drama, terror e ficção científica.</p>
+        <h2>Sinopse</h2>
+        <p>A história começa com o desaparecimento de um garoto e a aparição de uma menina com poderes sobrenaturais. Ela ajuda os amigos dele a enfrentarem uma criatura do mundo invertido e a investigação revela experimentos secretos do governo.</p>
+        <h2>Produção</h2>
+        <p>A série foi originalmente rejeitada por diversas emissoras até ser comprada pela Netflix. A estética oitentista e as referências à cultura pop da época contribuíram para seu sucesso mundial.</p>
+      </section>
+
+      <section id="breaking">
+        <h1>Tudo sobre Breaking Bad</h1>
+        <p>Breaking Bad é uma série de drama criminal criada por Vince Gilligan. Foi exibida entre 2008 e 2013 no canal AMC, totalizando cinco temporadas. A série conta a transformação de um professor de química em fabricante de metanfetamina.</p>
+        <h2>Sinopse</h2>
+        <p>Walter White é diagnosticado com câncer terminal e decide fabricar drogas para garantir o futuro financeiro de sua família. Ele se junta a Jesse Pinkman, seu ex-aluno, e juntos entram no mundo do crime.</p>
+        <h2>Produção</h2>
+        <p>A série foi filmada no Novo México e ganhou aclamação da crítica por seu roteiro, direção e atuação. Venceu diversos prêmios, incluindo 16 Emmys. Tornou-se uma das séries mais influentes da TV moderna.</p>
+      </section>
+    </article>
+
+    <aside class="anchors">
+      <h2>Neste Artigo</h2>
+      <ul>
+        <li><a href="#got">Game of Thrones</a></li>
+        <li><a href="#stranger">Stranger Things</a></li>
+        <li><a href="#breaking">Breaking Bad</a></li>
+      </ul>
+    </aside>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 - Seu site de séries favorito</p>
+  </footer>
+
+</body>
+</html>
