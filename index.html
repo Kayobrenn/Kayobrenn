@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página - Módulo I - Primeiros Passos com HTML</title>
+</head>
+<body>
+    <h1>Módulo 1 - Primeiros Passos com HTML</h1>
+    <hr />
+
+    <h2 id="indice">Índice</h2>
+    <p><strong><u>INSTRUÇÕES:</u> </strong>Neste índice estão os conteúdos organizados por aula.</p>
+    <ol>
+        <li><a href="#aula1">1ª Aula - Introdução ao HTML na Prática</a></li>
+        <li><a href="#aula2">2ª Aula - Trabalhando com Formulários</a></li>
+        <li><a href="#aula3">3ª Aula - Estruturando HTML + Formatações</a></li>
+        <li><a href="#aula4">4ª Aula - Trabalhando com Mídias</a></li>
+        <li><a href="#aula5">5ª Aula - Criando Tabelas com HTML</a></li>
+        <li><a href="#aula6">6ª Aula - HTML Semântico + Acessibilidade</a></li>
+    </ol>
+
+    <hr />
+
+    <h2 id="aula1">1ª Aula - Introdução ao HTML na Prática</h2>
+
+    <h3>Inspetor de Elementos</h3>
+    <p>Ferramenta dos navegadores que permite <strong>visualizar e editar</strong> o HTML e CSS de qualquer site. Muito útil para estudo e testes.</p>
+    
+    <h3>Estrutura Básica do HTML</h3>
+    <p>O HTML tem uma estrutura fixa: <code>&lt;!DOCTYPE html&gt;</code>, <code>&lt;html&gt;</code>, <code>&lt;head&gt;</code> e <code>&lt;body&gt;</code>. Dentro de <i>&lt;body&gt;</i> colocamos o conteúdo visível.</p>
+
+    <h3>Falando Sobre Tags</h3>
+    <p>As tags são os <strong>blocos de construção do HTML</strong>. Temos tags para títulos (<code>&lt;h1&gt;</code>), textos (<code>&lt;p&gt;</code>), imagens, listas e muito mais.</p>
+
+    <h3>Atributos das Tags</h3>
+    <p>São informações adicionais nas tags, como <code>href</code>, <code>src</code>, <code>alt</code>, etc. <mark>Servem para configurar o comportamento ou estilo</mark>.</p>
+
+    <h3>Textos</h3>
+    <p>Podemos usar tags como <strong>&lt;strong&gt;</strong>, <i>&lt;i&gt;</i>, <u>&lt;u&gt;</u>, <mark>&lt;mark&gt;</mark>, <del>&lt;del&gt;</del>, <small>&lt;small&gt;</small> e <abbr title="HyperText Markup Language">&lt;abbr&gt;</abbr> para formatar o texto.</p>
+
+    <h3>Listas Ordenadas e Não Ordenadas</h3>
+    <ol>
+        <li>Item 1</li>
+        <li>Item 2</li>
+    </ol>
+    <ul>
+        <li>Item A</li>
+        <li>Item B</li>
+    </ul>
+
+    <h3>Links</h3>
+    <p>Links são criados com a tag <code>&lt;a&gt;</code>. Exemplo: <a href="https://dio.me" target="_blank">DIO</a></p>
+    <p><a href="#indice">Voltar ao índice</a></p>
+
+    <hr />
+
+    <h2 id="aula2">2ª Aula - Trabalhando com Formulários</h2>
+
+    <h3>Tag Form</h3>
+    <p>Usada para criar formulários. Exemplo: <code>&lt;form action="#" method="post"&gt;</code></p>
+
+    <h3>Input e seus tipos</h3>
+    <p>Tipos: <code>text</code>, <code>email</code>, <code>number</code>, <code>password</code> e outros. Exemplo:</p>
+    <input type="text" placeholder="Nome">
+
+    <h3>Checkbox e Radio</h3>
+    <input type="checkbox"> Aceito os termos <br>
+    <input type="radio" name="opcao"> Masculino <input type="radio" name="opcao"> Feminino
+
+    <h3>Button e seus tipos</h3>
+    <button type="submit">Enviar</button>
+    <button type="button">Clique aqui</button>
+
+    <h3>Select e seus tipos</h3>
+    <select>
+        <option>Opção 1</option>
+        <option>Opção 2</option>
+    </select>
+
+    <h3>Textarea</h3>
+    <textarea rows="4" cols="30">Digite aqui</textarea>
+    <p><a href="#indice">Voltar ao índice</a></p>
+
+    <hr />
+
+    <h2 id="aula3">3ª Aula - Estruturando seu HTML + Formatações</h2>
+
+    <h3>Formatando Textos</h3>
+    <p>Combinamos tags como <strong>, <i>, <u>, <mark>, <small> e <del> para destacar partes do texto.</p>
+
+    <h3>Div e Span</h3>
+    <div>Exemplo de div</div>
+    <span>Exemplo de span</span>
+
+    <h3>Fieldsets</h3>
+    <fieldset>
+        <legend>Informações</legend>
+        <input type="text" placeholder="Seu nome">
+    </fieldset>
+
+    <h3>Embeds</h3>
+    <iframe width="300" src="https://www.youtube.com/embed/fSaY_rvHs_M?si=cVBfPm6L2QJbTNbI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    <h3>iframes</h3>
+    <iframe src="https://dio.me" width="300" height="150"></iframe>
+
+    <h3>Resenha sobre cores</h3>
+    <p>Podemos usar <font color="blue">cores com a tag &lt;font&gt;</font> (obsoleta) ou usar CSS moderno.</p>
+    <p><a href="#indice">Voltar ao índice</a></p>
+
+    <hr />
+
+    <h2 id="aula4">4ª Aula - Trabalhando com Mídias</h2>
+
+    <h3>O que são Tags de Mídia</h3>
+    <p>Tags que permitem inserir conteúdos como imagens, áudios e vídeos.</p>
+
+    <h3>Tag img</h3>
+    <img src="https://via.placeholder.com/150" alt="Exemplo">
+
+    <h3>Tag audio</h3>
+    <audio controls>
+        <source src="audio.mp3" type="audio/mpeg">
+    </audio>
+
+    <h3>Tag video</h3>
+    <video width="320" height="240" controls>
+        <source src="video.mp4" type="video/mp4">
+    </video>
+
+    <h3>Tag track</h3>
+    <video controls>
+        <source src="video.mp4" type="video/mp4">
+        <track src="legenda.vtt" kind="subtitles" srclang="pt" label="Português">
+    </video>
+
+    <h3>Tag iframe</h3>
+    <iframe src="https://www.google.com" width="300" height="200"></iframe>
+    <p><a href="#indice">Voltar ao índice</a></p>
+    
+    <hr />
+
+    <h2 id="aula5">5ª Aula - Criando Tabelas com HTML</h2>
+
+    <table border="1">
+        <thead>
+            <tr><th>Nome</th><th>Idade</th></tr>
+        </thead>
+        <tbody>
+            <tr><td>João</td><td>25</td></tr>
+        </tbody>
+        <tfoot>
+            <tr><td colspan="2">Rodapé da Tabela</td></tr>
+        </tfoot>
+    </table>
+    <p><a href="#indice">Voltar ao índice</a></p>
+
+    <hr />
+
+    <h2 id="aula6">6ª Aula - HTML Semântico + Acessibilidade</h2>
+
+    <main>
+        <header><h3>Cabeçalho</h3></header>
+        <section>
+            <article>
+                <h4>Artigo</h4>
+                <p><q>Semântica melhora a acessibilidade e o SEO.</q></p>
+                <blockquote>“A acessibilidade não é opcional”</blockquote>
+            </article>
+        </section>
+        <aside>Barra lateral</aside>
+        <footer><small>Rodapé</small></footer>
+    </main>
+
+    <figure>
+        <img src="https://via.placeholder.com/100" alt="Imagem">
+        <figcaption>Legenda</figcaption>
+    </figure>
+
+    <p><strong>SEO</strong> (Search Engine Optimization) melhora o <u>posicionamento nos buscadores</u>.</p>
+    <p><a href="#indice">Voltar ao índice</a></p>
+</body>
+</html>
