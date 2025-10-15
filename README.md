@@ -41,11 +41,12 @@ Estou em constante evolução, estudando novas ferramentas e boas práticas de d
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-### GitHub Stats
+<!-- ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kayobrenn&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayobrenn&layout=compact&theme=merko)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kayobrenn&theme=merko) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayobrenn&layout=compact&theme=merko)-->
 
 ### Meus Principais Desafios de Projeto
 
-[![Repo DSCATALOG](https://github-readme-stats.vercel.app/api/pin/?username=kayobrenn&repo=luxury-yacht-rental-site-html-css&theme=merko)](https://github.com/Kayobrenn/luxury-yacht-rental-site-html-css)
+[![Repo DSCATALOG](https://github-readme-stats.vercel.app/api/pin/?username=kayobrenn&repo=aluno-online-backend&theme=merko)](https://github.com/Kayobrenn/aluno-online-backend)
+[![Repo DSCATALOG](https://github-readme-stats.vercel.app/api/pin/?username=kayobrenn&repo=MagicAdviceAPI-Python&theme=merko)](https://github.com/Kayobrenn/MagicAdviceAPI-Python)
