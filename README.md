@@ -9,7 +9,7 @@
 <img align="right" alt="Developer vector created by www.freepik.com" height="380" src="https://raw.githubusercontent.com/090Raphael/imagens/86227742a4942ef2d095bfb6e68ad9767f208ef9/imagens/ilustra%C3%A7%C3%A3o%20de%20computador%202.png" alt="ilustração de um computador">
 <p align="justify">
 Olá, eu sou o Kayo!
-Sou estudante de Ciência da Computação, atualmente no 3º semestre, e venho construindo uma base sólida em desenvolvimento de software e tecnologias modernas.
+Sou estudante de Ciência da Computação, atualmente no 4º semestre, e venho construindo uma base sólida em desenvolvimento de software e tecnologias modernas.
 
 Tenho experiência prática com linguagens como Java, JavaScript e Python, além de trabalhar com frameworks e bibliotecas como Spring Boot, React e Tailwind CSS. Me interesso tanto por desenvolvimento back-end quanto front-end, sempre buscando criar aplicações funcionais, bem estruturadas e com boa experiência de uso.
 
