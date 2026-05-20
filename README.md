@@ -19,7 +19,7 @@ Estou em constante evolução, estudando novas ferramentas e boas práticas de d
 
 <h3 align="left">Conecte-se comigo</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayobrenn/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayobrenno/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/kayobrenn/)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:kbreno822@gmail.com)
 
@@ -38,7 +38,7 @@ Estou em constante evolução, estudando novas ferramentas e boas práticas de d
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=61dafd)
 ![MariaDB](https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=mariadb&logoColor=696969)
 
-### Cloud Computing Service
+<!-- ### Cloud Computing Service
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
