@@ -26,14 +26,15 @@ Estou em constante evolução, estudando novas ferramentas e boas práticas de d
 ### Linguagens e Ferramentas
 
 ![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=red)
+![Spring](https://img.shields.io/badge/spring-000.svg?style=for-the-badge&logo=spring&logoColor=%236db33f)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=ffdd54)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-000.svg?style=for-the-badge&logo=tailwind-css&logoColor=61dafb)
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Spring](https://img.shields.io/badge/spring-000.svg?style=for-the-badge&logo=spring&logoColor=%236db33f)
 
 ### Banco de Dados
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=61dafd)
 ![MariaDB](https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=mariadb&logoColor=696969)
 
@@ -46,7 +47,7 @@ Estou em constante evolução, estudando novas ferramentas e boas práticas de d
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kayobrenn&theme=merko) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayobrenn&layout=compact&theme=merko)-->
 
-### Meus Principais Desafios de Projeto
+<!-- ### Meus Principais Desafios de Projeto
 
 [![Repo DSCATALOG](https://github-readme-stats.vercel.app/api/pin/?username=kayobrenn&repo=aluno-online-backend&theme=merko)](https://github.com/Kayobrenn/aluno-online-backend)
 [![Repo DSCATALOG](https://github-readme-stats.vercel.app/api/pin/?username=kayobrenn&repo=MagicAdviceAPI-Python&theme=merko)](https://github.com/Kayobrenn/MagicAdviceAPI-Python)
